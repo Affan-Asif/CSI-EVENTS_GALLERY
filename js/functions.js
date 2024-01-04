@@ -1,12 +1,4 @@
-//----------------------------------------------------/
-//
-//      POLO - HTML5 Template
-//      Author: INSPIRO - Ardian Berisha
-//      Version: v5.9.3
-//      Update: January 10 2020
-//
-//----------------------------------------------------/
-//INSPIRO Global var
+
 var INSPIRO = {},
     $ = jQuery.noConflict();
 (function ($) {
